@@ -1,21 +1,4 @@
 
-# HỆ THỐNG ĐẶT XE TAXI TRỰC TUYẾN
-Client
-   │
-   ▼
-Đặt chuyến
-   │
-   ▼
-Taxi Booking System
-   │
- ┌─┴─────────────┐
- ▼               ▼
-Driver       Admin
- │             │
- ▼             ▼
-WebSocket   Dashboard
- │
- ▼
 Google Maps / GPS
 ## Giới thiệu
 
