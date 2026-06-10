@@ -1,5 +1,5 @@
+HỆ THỐNG ĐẶT XE TAXI TRỰC TUYẾN
 
-Google Maps / GPS
 ## Giới thiệu
 
 Hệ thống đặt xe taxi trực tuyến là ứng dụng web được xây dựng nhằm kết nối khách hàng với tài xế thông qua nền tảng số. Hệ thống hỗ trợ đặt xe, theo dõi hành trình theo thời gian thực, quản lý tài xế, thanh toán trực tuyến và thống kê hoạt động kinh doanh.
